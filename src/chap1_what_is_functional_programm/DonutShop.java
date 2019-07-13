@@ -1,5 +1,7 @@
 package chap1_what_is_functional_programm;
 
+import common.Tuple;
+
 import java.util.Collections;
 import java.util.List;
 

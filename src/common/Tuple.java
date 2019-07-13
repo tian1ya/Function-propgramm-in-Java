@@ -1,4 +1,4 @@
-package chap1_what_is_functional_programm;
+package common;
 
 public class Tuple<T, U> {
 
