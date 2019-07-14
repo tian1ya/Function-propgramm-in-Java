@@ -2,36 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3339730-c5b2-43e0-9452-618707b8f014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/script_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Effect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/Executable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/Recurrent3_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/composeAllFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/recurrent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/script.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/CollectionUtilities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap1_what_is_functional_programm/DonutShop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap1_what_is_functional_programm/DonutShop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap1_what_is_functional_programm/TestScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap1_what_is_functional_programm/TestScript.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap1_what_is_functional_programm/Tuple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/BinaryOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/BinaryOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_3_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_3_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Compose2_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/Function.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/TaxPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/TaxPrice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/partialApplicationAndCurry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/partialApplicationAndCurry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/practice2_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/practice2_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/practice2_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functional_programm_in_java/chap2_use_function_when_coding_in_java/practice2_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap1_what_is_functional_programm/DonutShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1_what_is_functional_programm/DonutShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap1_what_is_functional_programm/TestScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap1_what_is_functional_programm/TestScript.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap1_what_is_functional_programm/Tuple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Tuple.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,32 +20,36 @@
     <session id="-1984297730">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="32" />
+          <entry key="class" value="2" />
+          <entry key="java" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="32" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="6287" />
+          <entry key="java" value="8556" />
+          <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6287" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="JAVA" value="8556" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -77,160 +57,104 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/practice2_9.java">
+        <entry file="file://$PROJECT_DIR$/src/common/Function.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/composeAllFunc.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
+              <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/common/CollectionUtilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_3_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/practice2_9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
               <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/practice2_10.java">
+        <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/recurrent.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-              <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/Function.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
-              <folding>
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
-                <element signature="e#1372#1373#0" expanded="true" />
-                <element signature="e#1428#1429#0" expanded="true" />
-                <element signature="e#1604#1605#0" expanded="true" />
-                <element signature="e#1660#1661#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/script_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-              <folding>
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#634#635#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-              <folding>
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#927#928#0" expanded="true" />
-                <element signature="e#990#991#0" expanded="true" />
-                <element signature="e#1044#1045#0" expanded="true" />
-                <element signature="e#1116#1117#0" expanded="true" />
-                <element signature="e#1675#1676#0" expanded="true" />
-                <element signature="e#1698#1699#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <element signature="e#1145#1146#0" expanded="true" />
-                <element signature="e#1208#1209#0" expanded="true" />
-                <element signature="e#1269#1270#0" expanded="true" />
-                <element signature="e#1341#1342#0" expanded="true" />
-                <element signature="e#1387#1388#0" expanded="true" />
-                <element signature="e#1413#1414#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
-              <folding>
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
-                <element signature="e#795#796#0" expanded="true" />
-                <element signature="e#825#826#0" expanded="true" />
-                <element signature="e#897#898#0" expanded="true" />
-                <element signature="e#918#919#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/Effect.java">
+        <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/script.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/partialApplicationAndCurry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -240,8 +164,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -280,6 +204,13 @@
         <option value="$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V4.java" />
         <option value="$PROJECT_DIR$/src/common/Effect.java" />
         <option value="$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V5.java" />
+        <option value="$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/Recurrent3_8.java" />
+        <option value="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/recurrent_v1.java" />
+        <option value="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/recurrent.java" />
+        <option value="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/script.java" />
+        <option value="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/composeAll.java" />
+        <option value="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/composeAllFunc.java" />
+        <option value="$PROJECT_DIR$/src/common/CollectionUtilities.java" />
       </list>
     </option>
   </component>
@@ -289,8 +220,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="146" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -303,6 +233,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,54 +247,17 @@
               <item name="functional_programm_in_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="functional_programm_in_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="functional_programm_in_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap3_let_java_code_more_functionally" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="functional_programm_in_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="functional_programm_in_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap3_let_java_code_more_functionally" type="462c0819:PsiDirectoryNode" />
-              <item name="commandToFunctional" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="functional_programm_in_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="functional_programm_in_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap3_let_java_code_more_functionally" type="462c0819:PsiDirectoryNode" />
-              <item name="commandToFunctional" type="462c0819:PsiDirectoryNode" />
-              <item name="V4.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="functional_programm_in_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="functional_programm_in_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap3_let_java_code_more_functionally" type="462c0819:PsiDirectoryNode" />
-              <item name="commandToFunctional" type="462c0819:PsiDirectoryNode" />
-              <item name="V5.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="functional_programm_in_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="functional_programm_in_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563035051828" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563094988786" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -387,7 +282,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.composeAllFunc">
+    <configuration name="CollectionUtilities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="common.CollectionUtilities" />
+      <module name="functional_programm_in_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="V1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap3_let_java_code_more_functionally.commandToFunctional.V1" />
       <module name="functional_programm_in_java" />
@@ -427,25 +335,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practice2_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap2_use_function_when_coding_in_java.practice2_10" />
+    <configuration name="composeAllFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap4_reverse_recursive_and_memorization.composeAllFunc" />
       <module name="functional_programm_in_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="practice2_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap2_use_function_when_coding_in_java.practice2_9" />
-      <module name="functional_programm_in_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="common.*" />
+          <option name="PATTERN" value="chap4_reverse_recursive_and_memorization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -454,19 +349,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.practice2_9" />
-      <item itemvalue="Application.practice2_10" />
       <item itemvalue="Application.V1" />
       <item itemvalue="Application.V3" />
       <item itemvalue="Application.V5" />
+      <item itemvalue="Application.CollectionUtilities" />
+      <item itemvalue="Application.composeAllFunc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.composeAllFunc" />
+        <item itemvalue="Application.CollectionUtilities" />
         <item itemvalue="Application.V5" />
         <item itemvalue="Application.V3" />
         <item itemvalue="Application.V1" />
-        <item itemvalue="Application.practice2_10" />
-        <item itemvalue="Application.practice2_9" />
       </list>
     </recent_temporary>
   </component>
@@ -491,18 +386,28 @@
       <option name="presentableId" value="Default" />
       <updated>1562770920990</updated>
       <workItem from="1562770922625" duration="1076000" />
-      <workItem from="1562997979759" duration="22930000" />
+      <workItem from="1562997979759" duration="23100000" />
+      <workItem from="1563065974518" duration="3795000" />
+      <workItem from="1563085254701" duration="5947000" />
     </task>
+    <task id="LOCAL-00001" summary="mail example to v5">
+      <created>1563035182391</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563035182391</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24006000" />
+    <option name="totallyTimeSpent" value="33918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1929182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -511,14 +416,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -537,6 +442,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mail example to v5" />
+    <option name="LAST_COMMIT_MESSAGE" value="mail example to v5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -618,64 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/BinaryOperation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="88" selection-start-line="2" selection-start-column="88" selection-end-line="2" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_3_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-          <folding>
-            <element signature="e#1258#1285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/partialApplicationAndCurry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -690,10 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" column="73" lean-forward="true" selection-start-line="11" selection-start-column="73" selection-end-line="11" selection-end-column="73" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,83 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/practice2_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/practice2_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#1372#1373#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#1604#1605#0" expanded="true" />
-            <element signature="e#1660#1661#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/script_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-          <folding>
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -795,18 +569,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/functional_programm_in_java/chap1_what_is_functional_programm/Donut.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/functional_programm_in_java/chap1_what_is_functional_programm/CreditCart.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="e#1145#1146#0" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1269#1270#0" expanded="true" />
-            <element signature="e#1341#1342#0" expanded="true" />
-            <element signature="e#1387#1388#0" expanded="true" />
-            <element signature="e#1413#1414#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -814,17 +597,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/script_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/Recurrent3_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
           <folding>
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1044#1045#0" expanded="true" />
-            <element signature="e#1116#1117#0" expanded="true" />
-            <element signature="e#1675#1676#0" expanded="true" />
-            <element signature="e#1698#1699#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -836,23 +638,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap3_let_java_code_more_functionally/commandToFunctional/V5.java">
+    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/practice2_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/partialApplicationAndCurry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="15" lean-forward="true" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_3_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/practice2_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding>
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/recurrent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/script.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/composeAllFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/CollectionUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
