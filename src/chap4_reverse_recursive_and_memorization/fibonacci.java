@@ -38,7 +38,7 @@ public class fibonacci {
         // 实现方法几乎是一样的但是呢，并没有出现书中介绍的结果
 
         // 栈会溢出版本
-        System.out.println(fibonacciV2(5000, 1, 0));
+//        System.out.println(fibonacciV2(5000, 1, 0));
 
         // 栈不会溢出版本
         // 完全不懂了  ？？？？？？？？

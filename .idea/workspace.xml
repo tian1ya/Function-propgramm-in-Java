@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3339730-c5b2-43e0-9452-618707b8f014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/memorize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/recurrent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/recurrent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/script.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/script.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,35 +18,36 @@
     <session id="-1984297730">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="52" />
+          <entry key="java" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="52" />
+          <entry key="JAVA" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="12068" />
+          <entry key="java" value="13320" />
           <entry key="txt" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12068" />
+          <entry key="JAVA" value="13320" />
           <entry key="PLAIN_TEXT" value="88" />
         </counts>
       </usages-collector>
@@ -54,18 +55,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/composeAllFunc.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_5.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,47 +121,49 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/recurrent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-36">
+            <state relative-caret-position="855">
               <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-                <element signature="e#778#779#0" expanded="true" />
-                <element signature="e#814#815#0" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#1120#1121#0" expanded="true" />
-                <element signature="e#1155#1156#0" expanded="true" />
-                <element signature="e#1291#1292#0" expanded="true" />
-                <element signature="e#1327#1328#0" expanded="true" />
-                <element signature="e#1569#1570#0" expanded="true" />
-                <element signature="e#1605#1606#0" expanded="true" />
-                <element signature="e#1666#1667#0" expanded="true" />
-                <element signature="e#1703#1704#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/script.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/memorize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="68" column="105" selection-start-line="68" selection-start-column="105" selection-end-line="68" selection-end-column="105" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1101#1102#0" expanded="true" />
+                <element signature="e#1156#1157#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#819#820#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/script.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+            <state relative-caret-position="442">
+              <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -234,8 +225,9 @@
         <option value="$PROJECT_DIR$/src/chap5_data_processing_by_list_structure/List.java" />
         <option value="$PROJECT_DIR$/src/chap5_data_processing_by_list_structure/script01.java" />
         <option value="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/recurrent.java" />
-        <option value="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/script.java" />
         <option value="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/memorize.java" />
+        <option value="$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/script.java" />
       </list>
     </option>
   </component>
@@ -288,7 +280,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563376292546" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563461642039" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -313,20 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.fibonacci">
-    <configuration name="CollectionUtilities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="common.CollectionUtilities" />
-      <module name="functional_programm_in_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.memorize">
     <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap5_data_processing_by_list_structure.List" />
       <module name="functional_programm_in_java" />
@@ -366,6 +345,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="memorize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap4_reverse_recursive_and_memorization.memorize" />
+      <module name="functional_programm_in_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap4_reverse_recursive_and_memorization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="recurrent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap4_reverse_recursive_and_memorization.recurrent" />
       <module name="functional_programm_in_java" />
@@ -380,19 +372,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CollectionUtilities" />
       <item itemvalue="Application.composeAllFunc" />
       <item itemvalue="Application.List" />
       <item itemvalue="Application.recurrent" />
       <item itemvalue="Application.fibonacci" />
+      <item itemvalue="Application.memorize" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.memorize" />
         <item itemvalue="Application.fibonacci" />
         <item itemvalue="Application.recurrent" />
         <item itemvalue="Application.List" />
         <item itemvalue="Application.composeAllFunc" />
-        <item itemvalue="Application.CollectionUtilities" />
       </list>
     </recent_temporary>
   </component>
@@ -423,6 +415,9 @@
       <workItem from="1563198876250" duration="631000" />
       <workItem from="1563334339935" duration="603000" />
       <workItem from="1563368560523" duration="7156000" />
+      <workItem from="1563376528534" duration="63000" />
+      <workItem from="1563444081727" duration="96000" />
+      <workItem from="1563458474980" duration="3041000" />
     </task>
     <task id="LOCAL-00001" summary="mail example to v5">
       <created>1563035182391</created>
@@ -449,13 +444,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45652000" />
+    <option name="totallyTimeSpent" value="48852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2002442" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20757021" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -464,7 +459,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -755,6 +750,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/composeAllFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap2_use_function_when_coding_in_java/Compose2_5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -806,58 +811,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/composeAllFunc.java">
+    <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/recurrent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="855">
+          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/recurrent.java">
+    <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+        <state relative-caret-position="442">
+          <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#1120#1121#0" expanded="true" />
-            <element signature="e#1155#1156#0" expanded="true" />
-            <element signature="e#1291#1292#0" expanded="true" />
-            <element signature="e#1327#1328#0" expanded="true" />
-            <element signature="e#1569#1570#0" expanded="true" />
-            <element signature="e#1605#1606#0" expanded="true" />
-            <element signature="e#1666#1667#0" expanded="true" />
-            <element signature="e#1703#1704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/memorize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="68" column="105" selection-start-line="68" selection-start-column="105" selection-end-line="68" selection-end-column="105" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/script.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap4_reverse_recursive_and_memorization/fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="472">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
         </state>
       </provider>
     </entry>
