@@ -11,7 +11,38 @@ public class script01 {
      *
      * 而对于数据共享的事情，那么应该是这么理解，就是说在创建新的list 的时候，比如说增加一个 header，那么你是还可以访问到旧的 list 的，这样才能形成新的 list
      *
-     * 如找第一个元素，只需要调用 head() 方法
-     * 同时如果要删除第一个元素，那么也调用 tail() 就可以了，返回除第一个元素之后的list
+     * 第二个带来的就是性能的提升：
+     *  如找第一个元素，只需要调用 head() 方法
+     *  同时如果要删除第一个元素，那么也调用 tail() 就可以了，返回除第一个元素之后的list
+     *
+     *
+     *        public static Integer sum(List<Integer> ls){
+     *             return ls.isEmpty()
+     *                     ? 0
+     *                     : ls.head() + sum(ls.tails());
+     *         }
+     *
+     *         public static Double product(List<Double> ls){
+     *             return ls.isEmpty()
+     *                     ? 1.0
+     *                     : ls.head() * product(ls.tails());
+     *         }
+     *
+     *  如上的代码是可以有很多的相似性，只有最后乘法和加法的区别
+     *  所以有了这种的观察，相似和区别
+     *  那么接下来做的就是抽象画，将相似的东西能抽象出来，不相似的东西能够当成是参数传递进去
+     *  上面的两个方法，只需要提供变量信息，Type， Operation，Identity，operator 来实现操作
+     *
+     *  public static <A, B> B foldRight(List<A> list, B identity, Function<A, Function<B, B>> f){
+     *             return list.isEmpty()
+     *                     ? identity
+     *                     : f.apply(list.head()).apply(foldRight(list.tails(), identity, f));
+     *         }
+     *
+     *
+     *
+     *
+     *
+     *
      */
 }
